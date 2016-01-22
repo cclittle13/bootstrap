@@ -1,0 +1,34 @@
+body {
+    font-family: "railway";
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: red;
+    background-color: yellow;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+
+.navbar-header {
+        background-color: orange;
+
+
+
+
+}
+
+
+.container-fluid {
+
+     background-color: red;
+
+
+}
+
+
+.btn {
+
+        background-color: green; 
+
+}
